@@ -383,3 +383,7 @@ This course will involve a number of different types of interactions. These inte
 ## Support
 
 For questions about specific courses or technical support, please visit the course platform at [ds500.paiml.com](https://ds500.paiml.com).
+
+<!-- FUNNEL-001 footer: replace ds500-rust-bootcamp with the repo name -->
+---
+📚 **Learn this hands-on:** [Pragmatic AI Labs courses on Coursera](https://www.coursera.org/partners/pragmatic-ai-labs?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=ds500-rust-bootcamp) · ✉ [Free newsletter](https://ds500.paiml.com/mailing?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=ds500-rust-bootcamp)
