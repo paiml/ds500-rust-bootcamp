@@ -61,15 +61,11 @@ up to speed on these skills.
 **Linux**
 If learners lack basic Linux skills it is recommended to go through this course:
 
-* [Linux and Bash For Data Engineering](https://ds500.paiml.com/learn/course/nyu26)
 
 **GitHub Platform**
 
 Being able to work around and in GitHub is essential. Use these courses to get a refresher on automation, AI, and development environments:
 
-* [Applied GitHub Platform](https://ds500.paiml.com/learn/course/7exb6)
-* [GitHub Fundamentals](https://ds500.paiml.com/learn/course/mywlj)
-* [Introduction to GitHub Codespaces](https://ds500.paiml.com/learn/course/a49jp)
 
 
 #### Additional Resources
@@ -81,8 +77,6 @@ Use the [following template and go through its instructions when ready](https://
 
 This bootcamp is covered with the following courses:
 
-* [Rust Fundamentals](https://ds500.paiml.com/learn/course/g6u1k)
-* [Python and Rust with Linux Command Line Tools](https://ds500.paiml.com/learn/course/9uu8k)
 
 You will see references to the weeks of each course so you know exactly what relevant part is needed for this Bootcamp.
 
@@ -98,9 +92,6 @@ These are all the resources you need for this course.
 
 Go through the content on these courses and make sure you understand concepts like CI/CD, Codespaces, and general repository management.
 
-* [Applied GitHub Platform](https://ds500.paiml.com/learn/course/7exb6)
-* [GitHub Fundamentals](https://ds500.paiml.com/learn/course/mywlj)
-* [Introduction to GitHub Codespaces](https://ds500.paiml.com/learn/course/a49jp)
 
 
 ### Week 1: Setup your Development Environment
@@ -383,3 +374,11 @@ This course will involve a number of different types of interactions. These inte
 ## Support
 
 For questions about specific courses or technical support, please visit the course platform at [ds500.paiml.com](https://ds500.paiml.com).
+
+<!-- funnel:start -->
+---
+
+**Learn Rust:** [Rust From Zero (Coursera)](https://www.coursera.org/learn/rust?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=ds500-rust-bootcamp) · [Rust Programming, Duke (Coursera)](https://www.coursera.org/specializations/rust-programming?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=ds500-rust-bootcamp) · [Rust Programming program (edX)](https://www.edx.org/certificates/professional-certificate/ai-rust-programming?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=ds500-rust-bootcamp)
+
+More courses from [Noah Gift](https://github.com/noahgift) and Pragmatic AI Labs.
+<!-- funnel:end -->
